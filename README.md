@@ -29,7 +29,7 @@ Below is the list of projects that have been analyzed, along with a brief descri
 
 CppDepend is a static analysis tool for C++ that aids developers in improving code quality, ensuring maintainability, and adhering to coding standards. It provides comprehensive metrics, dependency analysis, and integrates seamlessly with various development environments.
 
-CppDepend is free for open-source projects. For more information and to apply for a free license, visit [CppDepend's Free License for Open Source](https://www.cppdepend.com/open-source).
+CppDepend is free for open-source projects. For more information and to apply for a free license, visit [CppDepend's Free License for Open Source](https://github.com/CppDepend/cppdepend-for-free).
 
 For more information about CppDepend, visit [CppDepend's official website](https://www.cppdepend.com/).
 
